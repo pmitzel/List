@@ -1,0 +1,2 @@
+# List
+This program will bring up a menu of options for the user to input. If the user selects 1, then they will be prompted to input the name of a file. The provided file is "input.txt". If the filename is typed in correctly, then the user will have succesfully loaded the list. From there, they will have the option to manipulate the list in ways using the rest of the menu options. Written in Java with Netbeans.
